@@ -13,4 +13,53 @@
       </profile>
     </annotationProcessing>
   </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Westeros.westeros-data" options="-parameters" />
+      <module name="Westeros.westeros-data.main" options="-parameters" />
+      <module name="Westeros.westeros-data.test" options="-parameters" />
+      <module name="Westeros.westeros-diagnostics-tools" options="-parameters" />
+      <module name="Westeros.westeros-diagnostics-tools.main" options="-parameters" />
+      <module name="Westeros.westeros-diagnostics-tools.test" options="-parameters" />
+      <module name="Westeros.westeros-movies-client" options="-parameters" />
+      <module name="Westeros.westeros-movies-client.main" options="-parameters" />
+      <module name="Westeros.westeros-movies-client.test" options="-parameters" />
+      <module name="Westeros.westeros-updater" options="-parameters" />
+      <module name="Westeros.westeros-updater.main" options="-parameters" />
+      <module name="Westeros.westeros-updater.test" options="-parameters" />
+      <module name="westeros-data" options="-parameters" />
+      <module name="westeros-data.main" options="-parameters" />
+      <module name="westeros-data.test" options="-parameters" />
+      <module name="westeros-diagnositics-service" options="-parameters" />
+      <module name="westeros-diagnositics-service.main" options="-parameters" />
+      <module name="westeros-diagnositics-service.test" options="-parameters" />
+      <module name="westeros-diagnostics-tools" options="-parameters" />
+      <module name="westeros-diagnostics-tools.main" options="-parameters" />
+      <module name="westeros-diagnostics-tools.test" options="-parameters" />
+      <module name="westeros-movies-client" options="-parameters" />
+      <module name="westeros-movies-client.main" options="-parameters" />
+      <module name="westeros-movies-client.test" options="-parameters" />
+      <module name="westeros-updater" options="-parameters" />
+      <module name="westeros-updater.main" options="-parameters" />
+      <module name="westeros-updater.test" options="-parameters" />
+      <module name="westeros-updater.westeros-data" options="-parameters" />
+      <module name="westeros-updater.westeros-data.main" options="-parameters" />
+      <module name="westeros-updater.westeros-data.test" options="-parameters" />
+      <module name="westeros-updater.westeros-diagnostics-tools" options="-parameters" />
+      <module name="westeros-updater.westeros-diagnostics-tools.main" options="-parameters" />
+      <module name="westeros-updater.westeros-diagnostics-tools.test" options="-parameters" />
+      <module name="westeros-updater.westeros-movies-client" options="-parameters" />
+      <module name="westeros-updater.westeros-movies-client.main" options="-parameters" />
+      <module name="westeros-updater.westeros-movies-client.test" options="-parameters" />
+      <module name="westeros-web-api" options="-parameters" />
+      <module name="westeros-web-api.main" options="-parameters" />
+      <module name="westeros-web-api.test" options="-parameters" />
+      <module name="westeros-web-api.westeros-data" options="-parameters" />
+      <module name="westeros-web-api.westeros-data.main" options="-parameters" />
+      <module name="westeros-web-api.westeros-data.test" options="-parameters" />
+      <module name="westeros-web-api.westeros-diagnostics-tools" options="-parameters" />
+      <module name="westeros-web-api.westeros-diagnostics-tools.main" options="-parameters" />
+      <module name="westeros-web-api.westeros-diagnostics-tools.test" options="-parameters" />
+    </option>
+  </component>
 </project>
